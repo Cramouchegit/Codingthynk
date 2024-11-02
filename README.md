@@ -37,8 +37,11 @@ fmt.Println("Belajar coding itu seperti belajar bahasa baru – semakin sering b
 
 ### It doesn't matter if you're touching a line of code for the first time or are struggling to understand basic concepts. CodingThynk is here to make your journey easier. We provide structured, easy-to-follow material, as well as a supportive community every step of the way. With dedication and consistency, you will see huge improvements in your coding skills.
 <br/>
+
 By Translate:
+
 <br/>
+
 ### Tidak masalah jika kamu baru pertama kali menyentuh baris kode atau sedang berjuang memahami konsep-konsep dasar. CodingThynk hadir untuk mempermudah perjalananmu. Kami menyediakan materi yang terstruktur dan mudah diikuti, serta komunitas yang mendukung di setiap langkah. Dengan dedikasi dan konsistensi, kamu akan melihat perkembangan besar dalam keterampilan coding-mu.
 
 
