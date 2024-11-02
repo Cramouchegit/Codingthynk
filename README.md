@@ -5,7 +5,9 @@
 # CodingThynk
 
 CodingThynk is an interactive educational platform that aims to help students get started and deepen their understanding of the world of coding. This website provides structured learning materials, from basic concepts to more complex topics, to help coding students reach a higher level of expertise. At CodingThynk, we believe that everyone has the potential to become a great programmer if supported by the right learning methods and a supportive community.
+<br/>
 By Translate:
+<br/>
 CodingThynk adalah platform edukasi interaktif yang bertujuan untuk membantu para pelajar memulai dan memperdalam pemahaman mereka tentang dunia coding. Website ini menyediakan materi belajar yang terstruktur, mulai dari konsep dasar hingga topik yang lebih kompleks, untuk membantu pelajar coding mencapai tingkat keahlian yang lebih tinggi. Di CodingThynk, kami percaya bahwa setiap orang memiliki potensi untuk menjadi programmer hebat jika didukung dengan metode belajar yang tepat dan komunitas yang mendukung.
 
 ## Deskripsi / Description
@@ -34,7 +36,9 @@ fmt.Println("Belajar coding itu seperti belajar bahasa baru – semakin sering b
 ```
 
 ### It doesn't matter if you're touching a line of code for the first time or are struggling to understand basic concepts. CodingThynk is here to make your journey easier. We provide structured, easy-to-follow material, as well as a supportive community every step of the way. With dedication and consistency, you will see huge improvements in your coding skills.
+<br/>
 By Translate:
+<br/>
 ### Tidak masalah jika kamu baru pertama kali menyentuh baris kode atau sedang berjuang memahami konsep-konsep dasar. CodingThynk hadir untuk mempermudah perjalananmu. Kami menyediakan materi yang terstruktur dan mudah diikuti, serta komunitas yang mendukung di setiap langkah. Dengan dedikasi dan konsistensi, kamu akan melihat perkembangan besar dalam keterampilan coding-mu.
 
 
